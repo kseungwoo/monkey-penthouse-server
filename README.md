@@ -17,3 +17,6 @@
 - 분산 락으로 주문 및 결제 트랜잭션 동시성 제어
 - Redis로 재고 관리 및 남은 어매니티 티켓 수 조회 성능 최적화
 - 응답 및 예외 처리 코드 개선 (CommonResponseMaker, CommonException, ResponseCode 클래스)
+
+## ERD 
+<img src="https://user-images.githubusercontent.com/71204049/168560323-e279bb88-4bca-41eb-ae9a-4ac85e21af27.png" width="800">
